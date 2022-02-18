@@ -1,0 +1,4 @@
+id,year
+id_of_barcode01,2020
+id_of_barcode02,2019
+id_of_barcode03,2022
