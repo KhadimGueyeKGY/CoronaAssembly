@@ -7,7 +7,7 @@ In order to combat COVID-19 worldwide, we have developed the ```CoronaAssembly p
 
 ## Prerequisite:
 
-You must first install the following package to use this pipeline:
+You must first install the following packages to use this pipeline:
 
 * Anaconda
 
