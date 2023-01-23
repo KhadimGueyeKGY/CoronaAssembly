@@ -51,7 +51,7 @@ conda activate artic
 
 #### Example
 ```
-python CoronaAssembly –i ./data/fastq_pass/ -n id.txt –c Senegal
+python CoronaAssembly.py –i ./data/fastq_pass/ -n id.txt –c Senegal
 ```
 
 ## Output
